@@ -57,6 +57,7 @@ MODEL 3 : 7 Layers with 4 Convolution layer
 
 #### Images and corresponding probability that predicted Right
 ![image](https://user-images.githubusercontent.com/56252247/173541419-2f696508-880d-446f-a8f0-e025ace31e21.png)
+![image](https://user-images.githubusercontent.com/56252247/173538503-e79e2a69-c5ad-4ede-afdb-9b5515a73290.png)
 
 #### Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/56252247/173541672-e62515b6-cd1c-4a25-bb13-ff3d0120f1e5.png)
